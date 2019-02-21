@@ -5,8 +5,5 @@ PSD & JPS Facebook cover photo tempaltes for use on your personal and/or busines
 ## Instructions
 [See blog article.](https://www.aaronfagan.ca/blog/2015/facebook-cover-photo-templates-jpg-psd/)
 
-## Authors
-- Aaron Fagan - [www.aaronfagan.ca](https://www.aaronfagan.ca/)
-
-# License
-This project is licensed under the [GNU General Public License](LICENSE).
+# Contributors
+* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
