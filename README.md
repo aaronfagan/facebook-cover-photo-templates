@@ -1,4 +1,3 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/facebook-cover-photo-templates.svg)
 # Facebook Cover Photo Templates (JPG & PSD)
 PSD & JPS Facebook cover photo tempaltes for use on your personal and/or business group pages.
 
