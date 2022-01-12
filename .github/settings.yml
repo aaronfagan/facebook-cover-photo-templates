@@ -2,7 +2,7 @@ repository:
   name: 'facebook-cover-photo-templates'
   description: 'Facebook Cover Photo Templates (JPG & PSD)'
   homepage: 'https://www.aaronfagan.ca/blog/2015/facebook-cover-photo-templates-jpg-psd/'
-  default_branch: 'master'
+  default_branch: 'main'
   private: false
   has_issues: true
   has_wiki: false
